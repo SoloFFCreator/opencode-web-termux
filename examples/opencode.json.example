@@ -1,0 +1,6 @@
+{
+  "provider": "openai-compatible",
+  "model": "your-model-name",
+  "baseUrl": "https://your-provider.example/v1",
+  "apiKey": "set-this-in-your-shell-instead"
+}
